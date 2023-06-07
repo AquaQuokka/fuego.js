@@ -1,3 +1,3 @@
-<h1><img src="./src/fuego.png" width="100" height="inherit">Fuego.js</h1>
+<img src="./src/fuegobanner.png" height="100" width="inherit">
 
 Fuego is a simple web framework that just works.
