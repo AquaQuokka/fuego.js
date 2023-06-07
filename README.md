@@ -2,9 +2,9 @@
 
 # Fuego.JS
 
-Fuego.JS is a simple web framework that just works.
+### Currently in development.
 
-Currently in development.
+Fuego.JS is a simple web framework that just works.
 
 <details>
     <summary></summary>
