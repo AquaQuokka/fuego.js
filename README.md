@@ -6,4 +6,9 @@ Fuego.JS is a simple web framework that just works.
 
 Currently in development.
 
->! (Except when AquaQuokka crashes production.)
+<details>
+    <summary></summary>
+    
+    (Except when AquaQuokka crashes production.)
+
+</details>
