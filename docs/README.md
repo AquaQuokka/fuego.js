@@ -1,5 +1,3 @@
-# Fuego.JS
-
 <img src="./src/fuegobanner.png" height="235" width="inherit">
 
 # Fuego.JS Documentation
