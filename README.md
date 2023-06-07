@@ -1,4 +1,4 @@
-<img src="./src/fuegobanner.png" height="235" width="inherit">
+<img src="src/fuegobanner.png" height="235" width="inherit">
 
 # Fuego.JS
 
