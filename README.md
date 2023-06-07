@@ -2,4 +2,8 @@
 
 # Fuego.JS
 
-Fuego is a simple web framework that just works.
+Fuego.JS is a simple web framework that just works.
+
+Currently in development.
+
+>! (Except when AquaQuokka crashes production.)
